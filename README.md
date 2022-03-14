@@ -48,7 +48,7 @@ Had some trouble with requesting because Twitter developer account wanted higher
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Viet Bui]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
