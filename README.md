@@ -59,7 +59,7 @@ Part 1:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Part 2:
-<img src='https://github.com/vietbui1999ru/Twitter/blob/master/android-rest-client-template-kotlin-main/Twitter%20Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/vietbui1999ru/Twitter/blob/master/android-rest-client-template-kotlin-main/Twitter%20Walkthrough%20part%202.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
