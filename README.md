@@ -65,8 +65,9 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Part 1: Had some trouble with requesting because Twitter developer account wanted higher access privilege. 
-Part 2: Understood that you need to add your activities in AndroidManifest.xml for the app to function. Understood how to quit Intents and return to Main Activity 
+- Part 1: Had some trouble with requesting because Twitter developer account wanted higher access privilege. 
+
+- Part 2: Understood that you need to add your activities in AndroidManifest.xml for the app to function. Understood how to quit Intents and return to Main Activity 
 and reload to the top of the activity.
 
 ## Open-source libraries used
